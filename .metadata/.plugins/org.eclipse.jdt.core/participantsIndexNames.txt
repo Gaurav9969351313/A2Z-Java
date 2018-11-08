@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/home/garry/Documents/workspace-sts-3.9.5.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1993490044.index
+/HelloWorld/src/main/java
+/home/garry/Documents/workspace-sts-3.9.5.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2904029233.index
+/MyApplication/src/main/java
+/home/garry/Documents/workspace-sts-3.9.5.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3610753186.index
+/TrialToDo/src/main/java

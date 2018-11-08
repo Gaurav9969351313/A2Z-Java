@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="easy-notes"/>
+<aop-project name="bike"/>
+<aop-project name="JWTtrial"/>
+<aop-project name="SendMailTrial"/>
+<aop-project name="HelloWorld"/>
+<aop-project name="LoginAndRegistration"/>
+<aop-project name="SpringBootJDBC"/>
+</aop-reference-model>

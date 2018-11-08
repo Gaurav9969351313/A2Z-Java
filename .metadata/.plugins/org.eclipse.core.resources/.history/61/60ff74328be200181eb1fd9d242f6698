@@ -1,0 +1,12 @@
+package com.example.JWTTrial;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JwTtrialApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JwTtrialApplication.class, args);
+	}
+}

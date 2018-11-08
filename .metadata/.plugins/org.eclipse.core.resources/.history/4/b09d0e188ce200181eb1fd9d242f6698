@@ -1,0 +1,5 @@
+package com.example.JWTTrial.model;
+
+public class Role {
+
+}
